@@ -1,1 +1,3 @@
-# materi_2
+# Soal Latihan Materi 2
+
+## Mempelajari CRUD PHP
